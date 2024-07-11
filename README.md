@@ -3,3 +3,7 @@ se realice un registro de esta informacion en una base de datos local para poste
 
 Al iniciar con nuestro se encontraran las siguientes opciones:
 ![image](https://github.com/user-attachments/assets/a136e3a5-1b3f-4352-a05f-bf1190ad9d36)
+
+
+![image](https://github.com/user-attachments/assets/9b3064b8-5655-4e54-91a5-6b849d5710a1)
+![image](https://github.com/user-attachments/assets/0c0adb98-ce30-47c2-a028-f2da5069a76e)
